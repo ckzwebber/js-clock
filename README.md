@@ -1,7 +1,7 @@
 # JSClock
 
 Seja bem-vindo! Esse é o código-fonte do meu relógio feito em JavaScript. Ele exibe a tela e a data do seu computador no navegador!
-Confira aqui: [https://webberjsclock.netlify.app](https://webberjsclock.netlify.app)
+Confira aqui: [https://webberclock.netlify.app](https://webberclock.netlify.app)
 
 ## Visão Geral
 
