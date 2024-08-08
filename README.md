@@ -1,8 +1,10 @@
 # JSClock
 
+Seja bem-vindo! Esse é o código-fonte do meu relógio feito em JavaScript. Ele exibe a tela e a data do seu computador no navegador!
+
 ## Visão Geral
 
-Esse simples relógio exibe dinâmicamente a hora e o dia do seu computador na tela.
+Esse simples relógio exibe dinâmicamente a hora e a data do seu computador na tela.
 
 - **Tecnologias:** HTML, CSS e JS.
 
