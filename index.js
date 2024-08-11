@@ -1,4 +1,4 @@
-const time = document.getElementById("time");
+const clock = document.getElementById("clock");
 const date = document.getElementById("date");
 
 function showTimeAndDate() {
@@ -15,7 +15,7 @@ function showTimeAndDate() {
   const year = now.getFullYear();
   const dayOfWeek = daysOfWeek[now.getDay()];
 
-  time.textContent = `${hours}:${minutes}:${seconds}`;
+  clock.textContent = `${hours}:${minutes}:${seconds}`;
   date.textContent = `${dayOfWeek}, ${day}/${month}/${year}`;
 }
 
