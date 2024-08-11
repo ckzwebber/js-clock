@@ -9,6 +9,10 @@
   text-shadow: 1px 1px 5px rgba(0, 0, 0, 1);
 }
 
+body {
+  background: #181818;
+}
+
 #main {
   background: #181818;
   height: 100vh;
