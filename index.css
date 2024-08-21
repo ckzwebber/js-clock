@@ -34,6 +34,29 @@ body {
   font-size: 3rem;
 }
 
+footer {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 15px;
+}
+
+.social {
+  width: 15px;
+  height: 15px;
+  padding: 5px;
+  border-radius: 5px;
+  background: #fefefe;
+  transition: ease-in-out 0.3s;
+}
+
+.social:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
 @media (max-width: 1000px) {
   * {
   font-size: calc(3px + 0.8vw);
